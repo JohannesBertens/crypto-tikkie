@@ -1,0 +1,24 @@
+{
+  "name": "crypto-tikkie",
+  "version": "1.0.0",
+  "description": "Site voor cryptotikkie.nl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohannesBertens/crypto-tikkie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohannesBertens/crypto-tikkie/issues"
+  },
+  "homepage": "https://github.com/JohannesBertens/crypto-tikkie#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
